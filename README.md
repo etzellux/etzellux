@@ -1,6 +1,6 @@
 **Hi, I'm Atilla** :wave:
 
-I'm a computer engineering student. I have a broad interest on the field, from machine learning to operating systems. Recently I've built an blog site with social features and a face recognition & comparison model. I'm mostly reading about unix-like os', algorithm design in these days.
+I'm a computer engineer, backend developer. My go-to stack is Django/Django-REST, PostgreSQL, NGINX. I'm also into Rust language.
+I'm interested in databases, distributed systems.
 
-- You can find demos and projects on ML to webdev to desktop app and many other topics
-- There are exercises and demos on C & C++, Java, Python...
+I'm blogging on [etzellux.xyz](https://etzellux.xyz)
